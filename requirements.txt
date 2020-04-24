@@ -1,7 +1,4 @@
 telebot
-json
 requests
-time
 datetime
-re
 logging
