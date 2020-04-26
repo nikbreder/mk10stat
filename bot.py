@@ -134,7 +134,7 @@ def cleanPers(Perk):
 #*************************КОНЕЦ ФУНКЦИЯМ**************************************************
 
 #, parse_mode= 'Markdown'
-bot.send_message(chat_id= chat_id, text="START", parse_mode= '')
+bot.send_message(chat_id= chat_id, text="START", parse_mode= 'Markdown')
 i=1
 while i<500:
     
