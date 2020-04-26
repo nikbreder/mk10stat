@@ -10,7 +10,7 @@ import re
 import logging
  #
 bot = telebot.TeleBot('1115488703:AAFc_53Pk5iqDKAmT5k52GXk-j6lVUNED5U')
-chat_id='1001204187176'
+chat_id='@testmk10stat'
 
 
 DictMatchN ={} #словарь (ИДматча, длинна словаря с ходом боя)
