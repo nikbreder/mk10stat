@@ -9,7 +9,7 @@ import time
 import re 
 import logging
  #
-bot = telebot.TeleBot('1115488703:AAFc_53Pk5iqDKAmT5k52GXk-j6lVUNED5U')
+bot = telebot.TeleBot('1205543649:AAHw3v3ZA7qfn8ylY51_nk8Umb9BHNPWotA')
 chat_id='@testmk10stat'
 
 
